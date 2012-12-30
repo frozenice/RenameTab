@@ -1,0 +1,7 @@
+[
+  { "keys": ["alt+w"], "command": "rename_tab", "context":
+    [
+      { "key": "setting.is_widget", "operator": "equal", "operand": false }
+    ]
+  }
+]
