@@ -1,3 +1,7 @@
+# Sublime Text 3
+
+See here for a solution that works with Sublime Text 3: https://stackoverflow.com/questions/60056867/sublime-text-3-renaming-file-tabs/60057681#60057681
+
 # RenameTab package for Sublime Text 2
 
 Got many tabs that aren't saved files and have either 'untitled' or other useless stuff as a title?
